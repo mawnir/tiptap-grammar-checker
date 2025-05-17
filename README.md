@@ -26,3 +26,5 @@ pnpm run dev
 ## Contributing
 
 Pull requests are welcome. Please open an issue first to discuss proposed changes.
+
+### Created with the help of V0.dev
